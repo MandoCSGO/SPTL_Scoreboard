@@ -358,7 +358,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://app.openscoreboard.com/scoreboard/?tmid=-OCZXGyxD_6fjgLBnDw1&t=table&table=2&sid=-OCbKbfqfSjoWcsulu5q",
+                "url": "https://app.openscoreboard.com/scoreboard/?tmid=-OCbzFrPPzC33Xm5UfHT&t=table&table=1&sid=-OCbKbfqfSjoWcsulu5q",
                 "width": 1200
             },
             "mixers": 255,
@@ -504,7 +504,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://app.openscoreboard.com/scoreboard/?tmid=-OCZXGyxD_6fjgLBnDw1&t=table&table=2&sid=-OCbHdCOjvm4x4se-lwl",
+                "url": "https://app.openscoreboard.com/scoreboard/?tmid=-OCbzFrPPzC33Xm5UfHT&t=table&table=1&sid=-OCbHdCOjvm4x4se-lwl",
                 "width": 1200
             },
             "mixers": 255,
@@ -537,7 +537,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://app.openscoreboard.com/scoreboard/?tmid=-OCZXGyxD_6fjgLBnDw1&t=table&table=2&sid=-OCbL8S2HEBtb3ZXu_VD"
+                "url": "https://app.openscoreboard.com/scoreboard/?tmid=-OCbzFrPPzC33Xm5UfHT&t=table&table=1&sid=-OCbL8S2HEBtb3ZXu_VD"
             },
             "mixers": 255,
             "sync": 0,
